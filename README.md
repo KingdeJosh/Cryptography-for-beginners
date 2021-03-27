@@ -2,6 +2,7 @@
 This repo was created for students to better understand basic crypto, with code style. 
 Each code when ran shows' a step by step solution for a certain topic.  
 For example finding two prime numbers p and q when toitient of N and N is known. The code should show something like the below.
+```
       When we have n = 221 and toitent = 192
     1. We know that n = p * q and toitent = (p-1)(q-1)
     2. We then susbsitute to get
@@ -18,3 +19,4 @@ For example finding two prime numbers p and q when toitient of N and N is known.
        p = (30+sqrt(30^2 - 4 * 221))/2 
        q = (30-sqrt(30^2 - 4 * 221))/2
     7. We have that p = 17.0  and q = 13.0
+ ```

@@ -1,7 +1,7 @@
 # Cryptography-for-beginners
-This repo was created for students to better understand basic crypto, with code style.\ 
-Run with python3\
-Each code when ran shows' a step by step solution for a certain topic.\ 
+This repo was created for students to better understand basic crypto, with code style.<br /> 
+Run with python3<br />
+Each code when ran shows' a step by step solution for a certain topic.<br />
 For example finding two prime numbers p and q when toitient of N and N is known. The code should show something like the below.
 ```
       When we have n = 221 and toitent = 192
